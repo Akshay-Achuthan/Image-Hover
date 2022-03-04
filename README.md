@@ -2,4 +2,4 @@
 
 Amazon like image zoom on mouse hover 
 
-<a>Live Demo</a>
+<a href="https://image-hoverz.netlify.app/"> Live Demo</a>
